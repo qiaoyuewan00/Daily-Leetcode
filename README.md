@@ -14,7 +14,7 @@ daily attendance.😜
     <tr>
         <td>
             <input type="checkbox" id="day1"><br>
-            <textarea id="note1" placeholder="数组-二分"></textarea>
+            <textarea "数组-二分"></textarea>
         </td>
         <td>
             <input type="checkbox" id="day2"><br>
