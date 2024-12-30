@@ -1,5 +1,5 @@
 # Biko-leetcode
-daily attendance.😜
+Daily Attendance 😜
 
 # Daily Check-in Calendar
 - [ ] Month 1
