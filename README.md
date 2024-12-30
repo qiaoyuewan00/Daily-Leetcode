@@ -14,7 +14,7 @@ daily attendance.😜
     <tr>
         <td>
             <input type="checkbox" id="day1"><br>
-            <textarea id="note1" placeholder="Notes..."></textarea>
+            <textarea id="note1" placeholder="数组-二分"></textarea>
         </td>
         <td>
             <input type="checkbox" id="day2"><br>
@@ -34,6 +34,7 @@ daily attendance.😜
         </td>
     </tr>
 </table>
+
 
 <table>
     <tr>
@@ -66,5 +67,4 @@ daily attendance.😜
         </td>
     </tr>
 </table>
-
 <!-- Continue adding more tables for additional days as needed -->
