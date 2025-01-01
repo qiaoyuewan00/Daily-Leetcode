@@ -1,5 +1,6 @@
 # Biko-leetcode
 Daily Attendance 😜
+Follow https://programmercarl.com/
 
 # Daily Check-in Calendar
 - [ ] Month 1
