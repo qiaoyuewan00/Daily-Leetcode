@@ -1,4 +1,4 @@
-# Biko-leetcode
+# Daily-Leetcode
 Daily Attendance 😜
 Follow https://programmercarl.com/
 
