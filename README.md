@@ -14,7 +14,7 @@ Follow https://programmercarl.com/
 | 2025-01-05 🌜 | Array-螺旋矩阵                         | ✔ |
 | 2025-01-06 🌞 | Array-移除链表元素                     | ✔ |
 | 2025-01-07 🌜 | Array-设计链表                         | ✔ |
-| 2025-01-08 🌞 | _Write your notes here..._     |     |
+| 2025-01-08 🌞 | Array-反转链表                         | ✔ |
 | 2025-01-09 🌜 | _Write your notes here..._     |     |
 | 2025-01-10 🌞 | _Write your notes here..._     |     |
 
