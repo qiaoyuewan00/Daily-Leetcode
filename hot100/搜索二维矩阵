@@ -1,0 +1,9 @@
+# 思路
+
+**二分法**，难在不记得用二分法，降低复杂度+搜索一个数相关 
+
+回忆线性过程，把第`k`个数转为`(i,j)`坐标的格式
+
+# 题目
+
+- [ ] https://leetcode.cn/problems/search-a-2d-matrix/description/?envType=study-plan-v2&envId=top-100-liked
