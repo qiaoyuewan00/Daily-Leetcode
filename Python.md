@@ -1,3 +1,18 @@
+# 处理输入输出
+
+！！！待补充
+
+```python
+n, bagweight = map(int, input().split())
+
+weight = list(map(int, input().split()))
+value = list(map(int, input().split()))
+
+dp = [[0] * (bagweight + 1) for _ in range(n)]
+```
+
+
+
 # 列表
 
 ```python
@@ -8,7 +23,7 @@ list_1.remove(val) # 移除第一个找到等于val的元素
 ## 创建一个矩阵
 
 ```python
-b*a
+a列b行的矩阵
 matrix =  nums = [[0] * a for _ in range(b)]
 ```
 
