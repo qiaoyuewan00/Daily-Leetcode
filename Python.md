@@ -11,6 +11,13 @@ value = list(map(int, input().split()))
 dp = [[0] * (bagweight + 1) for _ in range(n)]
 ```
 
+# 字符串
+
+```python
+# 查看ASCII码
+ord("a")
+```
+
 
 
 # 列表
@@ -32,6 +39,7 @@ matrix =  nums = [[0] * a for _ in range(b)]
 # 字典
 
 ```python
+from collections import defaultdict
 d = defaultdict(int)  # 初始化加入key的value为0
 ```
 
@@ -39,7 +47,7 @@ d = defaultdict(int)  # 初始化加入key的value为0
 
 # 类
 
-## Counter
+## Counter：字符串哈希
 
 ```
 # counter 生成counter, 虽然这里并没有什么用

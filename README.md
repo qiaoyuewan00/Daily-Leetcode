@@ -24,7 +24,7 @@ Follow https://programmercarl.com/
 | 2025-01-14 🌞 | Dynamic Plan-不同的二叉搜索树 | ✔ |
 | 2025-01-15 🌞 | Dynamic Plan-背包问题概述+01背包问题 二维 | ✔ |
 | 2025-01-16 🌞 | Dynamic Plan-背包问题概述+01背包问题 一维 | ✔ |
-|  |  |  |
+| 2025-01-20 🌞 | HashTable-有效的字母异位词 | ✔ |
 |  |  |  |
 |  |  |  |
 |  |  |  |
